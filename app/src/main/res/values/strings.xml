@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testing HTTP</string>
+    <string name="userName">User Name</string>
+    <string name="password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="action_settings">Settings</string>
+</resources>
